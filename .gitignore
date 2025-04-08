@@ -6,3 +6,8 @@
 
 # Diretorio de dependencias
 node_modules/
+
+##Alterando
+.gitignore
+
+exercicios/
