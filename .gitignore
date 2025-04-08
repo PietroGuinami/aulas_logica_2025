@@ -1,0 +1,8 @@
+# Arquivo temporarios 
+*.temporarios
+
+# Arquivos de complicação
+*.exe
+
+# Diretorio de dependencias
+node_modules/
