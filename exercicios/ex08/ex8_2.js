@@ -3,5 +3,7 @@ const prompt = require('prompt-sync')()
 
     let nomes = ['Paulo', 'Cadu', '...']
 
-    if(console.log(nomes)){}
+for(let nome of nomes){
+    console.log(nome)
+}
         
