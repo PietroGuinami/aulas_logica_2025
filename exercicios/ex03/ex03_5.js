@@ -20,3 +20,4 @@ else if(s > 2000 || s <= 4000){
     s = s + (s * 0.08)
     console.log(`salario reajustado em 08%, o valor total é ${s}`)
 }
+    
