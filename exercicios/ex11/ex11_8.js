@@ -2,4 +2,12 @@
 
 const prompt = require('prompt-sync')()
 
-function 
+function numeropn(valor){
+    if(valor >= 0){
+        console.log('positivo')
+    }else(valor < 0);{
+        console.log('negativo')
+    }
+}
+numeropn(30)
+numeropn(-30)
