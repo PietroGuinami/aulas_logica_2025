@@ -16,3 +16,17 @@
     chamadasA()
     chamadasA()
     chamadasA()
+
+///////////////////correção/////////////////////
+
+    let contador = 0
+    function contar(){
+        contador = contador +1
+        // contador++
+        // contador += 1
+    }
+    contar()
+    contar()
+    contar()
+
+    console.log(contador)
